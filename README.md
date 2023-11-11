@@ -71,17 +71,30 @@ Later the system will ask for some input, just skip it. Later, there will be an 
 ![PP18](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/59f02175-3818-434c-a440-d804f7d458ba)
 
 2. Then on Ubuntu Master, create a python file in the shared folder with the command below.
-![PP19](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/af49d13e-4056-4844-bc98-5c41123e9c0f)
-![PP20](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/59ab5a88-98de-42e4-897d-b7776827197c)
+![PP27](https://github.com/ShinnoHonobu/MPI-Numeric/assets/113822318/2ea8d718-07ee-45f2-9171-bb51f7d43873)
+![PP28](https://github.com/ShinnoHonobu/MPI-Numeric/assets/113822318/27889281-3a4f-4ec4-8c95-145960cdc89f)
 
-3. Before executing the Bubble Sort coding, first carry out testing on MPI with the following command
+3. Before executing the Numeric code, first carry out testing on MPI with the following command
 ![PP21](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/9f3ea032-895d-48a2-bbec-46965f3d4e82)
 ![PP22](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/6fab69f1-497a-4fb8-98e4-98722aba7bba)
 ![PP23](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/46710b3b-bb83-451b-af76-50a51a029c5e)
 
-4. Enter the Bubble Sort coding in the python file with the command below.
-![PP24](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/3b9f1a9c-0652-479a-8ee3-0dccddde6a59)
-You can check the code in the code menu
+4. Enter the Numeric code in the python file with the command below.
+![PP27](https://github.com/ShinnoHonobu/MPI-Numeric/assets/113822318/2ea8d718-07ee-45f2-9171-bb51f7d43873). You can check the code in the code menu
 
 5. Next, run the file with the following command so that the following output appears.
-![PP25](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/98398bb3-9977-4720-87d4-476025b9f048)
+- Run Without MPI
+
+  ![PP29](https://github.com/ShinnoHonobu/MPI-Numeric/assets/113822318/3847a01b-677d-4c88-9875-6d4959fb89c2)
+- Run With Master Only
+
+  ![PP30](https://github.com/ShinnoHonobu/MPI-Numeric/assets/113822318/bd220613-2f1b-4b04-98c4-7878d2b7ddaf)
+- Run With Master and Slave1
+
+  ![PP31](https://github.com/ShinnoHonobu/MPI-Numeric/assets/113822318/5787fac2-fc24-438d-8980-46472ffd6274)
+- Run With Master, Slave1, and Slave2
+
+  ![PP32](https://github.com/ShinnoHonobu/MPI-Numeric/assets/113822318/762aeffe-f707-4380-8f60-566e45175d2e)
+- Run With Master, Slave1, Slave2, Slave3
+
+  ![PP33](https://github.com/ShinnoHonobu/MPI-Numeric/assets/113822318/930c55a2-7019-4719-a327-6c6382a73697)

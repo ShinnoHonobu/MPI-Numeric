@@ -66,7 +66,7 @@ Later the system will ask for some input, just skip it. Later, there will be an 
 6. Finally, mount 3 Ubuntu Slaves with the following command.
 ![PP17](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/fcfb1855-2bd0-4e71-910a-b5714bde6388)
 
-# MPI
+# Numeric Program Execution
 1. On Ubuntu Master and Server, perform the following commands for MPI installation.
 ![PP18](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/59f02175-3818-434c-a440-d804f7d458ba)
 

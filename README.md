@@ -80,7 +80,10 @@ Later the system will ask for some input, just skip it. Later, there will be an 
 ![PP23](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/46710b3b-bb83-451b-af76-50a51a029c5e)
 
 4. Enter the Numeric code in the python file with the command below.
-![PP27](https://github.com/ShinnoHonobu/MPI-Numeric/assets/113822318/2ea8d718-07ee-45f2-9171-bb51f7d43873). You can check the code in the code menu
+
+    ![PP27](https://github.com/ShinnoHonobu/MPI-Numeric/assets/113822318/2ea8d718-07ee-45f2-9171-bb51f7d43873)
+  
+    You can check the code in the code menu
 
 5. Next, run the file with the following command so that the following output appears.
 - Run Without MPI

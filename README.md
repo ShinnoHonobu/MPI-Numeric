@@ -66,6 +66,7 @@ Later the system will ask for some input, just skip it. Later, there will be an 
 6. Finally, mount 3 Ubuntu Slaves with the following command.
 ![PP17](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/fcfb1855-2bd0-4e71-910a-b5714bde6388)
 
+
 # Numeric Program Execution
 1. On Ubuntu Master and Server, perform the following commands for MPI installation.
 ![PP18](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/59f02175-3818-434c-a440-d804f7d458ba)
@@ -74,18 +75,21 @@ Later the system will ask for some input, just skip it. Later, there will be an 
 ![PP27](https://github.com/ShinnoHonobu/MPI-Numeric/assets/113822318/2ea8d718-07ee-45f2-9171-bb51f7d43873)
 ![PP28](https://github.com/ShinnoHonobu/MPI-Numeric/assets/113822318/27889281-3a4f-4ec4-8c95-145960cdc89f)
 
-3. Before executing the Numeric code, first carry out testing on MPI with the following command
+3. Make sure you have already install numpy to execute the numeric program
+![PP34](https://github.com/ShinnoHonobu/MPI-Numeric/assets/113822318/9fb47865-4e5c-465e-9f62-93b9d0ea8bbd)
+
+4. Before executing the Numeric code, first carry out testing on MPI with the following command
 ![PP21](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/9f3ea032-895d-48a2-bbec-46965f3d4e82)
 ![PP22](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/6fab69f1-497a-4fb8-98e4-98722aba7bba)
 ![PP23](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/46710b3b-bb83-451b-af76-50a51a029c5e)
 
-4. Enter the Numeric code in the python file with the command below.
+5. Enter the Numeric code in the python file with the command below.
 
     ![PP27](https://github.com/ShinnoHonobu/MPI-Numeric/assets/113822318/2ea8d718-07ee-45f2-9171-bb51f7d43873)
   
     You can check the code in the code menu
 
-5. Next, run the file with the following command so that the following output appears.
+6. Next, run the file with the following command so that the following output appears.
 - Run Without MPI
 
   ![PP29](https://github.com/ShinnoHonobu/MPI-Numeric/assets/113822318/3847a01b-677d-4c88-9875-6d4959fb89c2)
